@@ -38,7 +38,7 @@ function iLoveTheBeatles(number) {
     array.push(15 - number);
     i++;
   }
-  return array
+  return
 }
 
 
