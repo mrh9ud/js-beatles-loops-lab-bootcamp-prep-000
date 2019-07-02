@@ -33,7 +33,7 @@ function incrementVariable() {
 function iLoveTheBeatles(number) {
   var array = []
   do {
-    array.concat("I love the Beatles!");
+    array.push("I love the Beatles!");
   } while (number < 15 && i >= 0) {
     array.push(15 - number[i]);
     i++;
