@@ -23,6 +23,12 @@ function johnLennonFacts(facts) {
   return facts
 }
 
+var i = 0;
+ 
+function incrementVariable() {
+  i = i + 1;
+  return i
+
 function iLoveTheBeatles(number) {
   var array = []
   do {
