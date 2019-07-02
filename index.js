@@ -26,6 +26,6 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(number) {
   var array = []
   do {
-    array.concat("I love the Beatles!")
-  }
+    array.concat("I love the Beatles!");
+  } 
 }
